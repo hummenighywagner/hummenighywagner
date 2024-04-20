@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hummenighywagner
 - 👀 I’m interested in Jobs as Jr developmentor internship.
 - 🌱 I’m currently learning JAVA, HTLM5, CSS3, JS and SQL Data Base. 
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking for work stages or Junior Systems Developer
 - 🔗Linkedin Profile: https://www.linkedin.com/in/hummenighy-wagnerprofessionalprofile/
 - 📫 How to reach me via WhatsApp: (81) 98879-8506
 
