@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hummenighywagner
 - 👀 I’m interested in Jobs as Jr developmentor internship.
-- 🌱 I’m currently learning JAVA, HTLM, CSS and JS
+- 🌱 I’m currently learning JAVA, HTLM5, CSS3, JS and SQL Data Base. 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me via WhatsApp: (81) 98879-8506
 
