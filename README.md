@@ -15,14 +15,12 @@
   <br>
  </div>
   
-  <a href= "https://www.linkedin.com/in/hummenighy-wagnerprofessionalprofile/"> 
-    <h4>👉 Visite my linkedin Profile clicking on the image bellow! </h4>
-  <img width="50px"  src="https://devicon-website.vercel.app/api/linkedin/original.svg"></img>
+  <a href= "https://www.linkedin.com/in/hummenighy-wagnerprofessionalprofile/"> <h4>👉 Visite my linkedin Profile clicking on the image bellow! </h4>
+  <img width="50px"  src="https://devicon-website.vercel.app/api/linkedin/original.svg">
   </a>
 
-  <a href="https://wa.me/+55081988798506">
-    <h4>👉 Call me on WhatsApp let's talk click on the icon!</h4>
-    <img width="50px" src="https://github.com/user-attachments/assets/bac24ab5-1d43-4fd9-9b0f-c96cfe14fc53"
+  <a href="https://wa.me/+55081988798506"> <h4>👉 Call me on WhatsApp let's talk click on the icon!</h4>
+  <img width="50px" src="https://github.com/user-attachments/assets/bac24ab5-1d43-4fd9-9b0f-c96cfe14fc53">
   </a>
 
  
